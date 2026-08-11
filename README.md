@@ -19,6 +19,3 @@ VoiceControlApp is a lightweight and intuitive Windows application designed to c
 - **OS:** Windows 10 / Windows 11
 - **Hardware:** A working microphone connected to your PC.
 - **Internet:** Connection may be required depending on the speech recognition engine used.
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute to the code.
